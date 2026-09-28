@@ -1,0 +1,6 @@
+{
+  "name": "MargDarshak - Career Guidance for 10th & Intermediate",
+  "description": "Find the right career path after 10th and Intermediate. Explore courses, diplomas, degrees, entrance exams, and career pathways tailored to your interests and favorite subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
